@@ -1,0 +1,5 @@
+statuscode,actualvalue,vehicle_id,scan_time,upper_limit,pointname,lower_limit,scan_date,jointname,axis,lh_rh,standard
+0,4.10,MHAUTO000000001,10 45 00,5.50,E104AL,2.50,06/08/2026,Hood to Fender LH,G,LH,4.00
+0,0.40,MHAUTO000000001,10 45 00,1.50,E104AL,-1.50,06/08/2026,Hood to Fender LH,F,LH,0.00
+0,3.60,MHAUTO000000001,10 45 00,4.50,E801AL,3.00,06/08/2026,Hood to Frt Door LH,G,LH,3.50
+0,-0.50,MHAUTO000000001,10 45 00,0.00,E801AL,-1.00,06/08/2026,Hood to Frt Door LH,F,LH,0.00

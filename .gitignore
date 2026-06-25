@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Electron build outputs
+dist/
+build/
+release/
+C:\GapflushBuild/
+
+# Generated installers and archives
+*.exe
+*.blockmap
+*.yml
+*.zip
+
+# Temporary smoke-test files
+__*.js
+**/__*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local runtime state
+.processed_db.json
